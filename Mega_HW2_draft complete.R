@@ -1,4 +1,4 @@
-#Econ 593 Mega HW2
+#ML Prediction project
 
 
 ##environment setting
